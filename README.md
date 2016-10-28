@@ -1,2 +1,2 @@
 # newwindow
-新窗口
+VS2013 + qt5.5
